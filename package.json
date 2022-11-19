@@ -26,6 +26,6 @@
     },
     "dependencies": {
         "react-notifications": "^1.4.3",
-        "simple-flexbox": "^2.3.0"
+        "simple-flexbox": "^2.3.3"
     }
 }
